@@ -1,43 +1,17 @@
-<h1 align="center">Hi 👋, I'm tyom1ch</h1>
-<h3 align="center">Just a dude coding from Ukraine 🇺🇦</h3>
-
----
-
-🎧 I write code the way I write music — from vibes.  
-💾 Passionate about old tech, Y2K aesthetics, and things most people forgot existed.  
-⚡ Can turn caffeine into Python, C, or weird web apps that shouldn't work, but do.  
-🎨 I mix code, visuals, and chaos. Sometimes it compiles. Sometimes it changes lives.
-
----
-
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <!-- соцмережі можеш додати сюди -->
-  Telegram: <a href="https://t.me/tyom1ch">@tyom1ch</a>  
+<p align="center">
+    <img width="500px" height="500px" src="https://github.com/user-attachments/assets/eab66894-8e29-4d32-b5a6-7726935e7660" alt="Banner" width="50%">
 </p>
 
----
+<h3 align="center">welcome to my GitHub profile :3</h3>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+<pre>
+    💼 CS student @ college • React enjoyer • Python & C
+    🧠 Low-level tinkering • Systems thinking • Open-source geek
+    📖 Clean code • UX & DX • IoT • Microcontrollers
+    🎧 Music • Code • Old tech
+</pre>
+
+<p align="center">
+<img align="center" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tyom1ch&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyom1ch&show_icons=true&locale=en" alt="tyom1ch" />
 </p>
-
----
-
-<h3 align="left">📈 Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tyom1ch&show_icons=true&locale=en&layout=compact" alt="tyom1ch" />
-</p>
-
----
-
-<p align="center"><i>“Code like nobody's watching. Because Git really is.”</i></p>
