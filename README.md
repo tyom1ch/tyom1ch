@@ -5,9 +5,9 @@
 <h3 align="center">welcome to my GitHub profile :3</h3>
 
 <pre>
-    💼 CS student @ college • React enjoyer • Python & C
-    🧠 Low-level tinkering • Systems thinking • Open-source geek
-    📖 Clean code • UX & DX • IoT • Microcontrollers
+    💼 CS student @ college • JS enjoyer • Python & C
+    🧠 Systems thinking • Open-source geek
+    📖 UI/UX & DX • IoT • Microcontrollers
     🎧 Music • Code • Old tech
 </pre>
 
