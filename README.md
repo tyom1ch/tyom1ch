@@ -5,10 +5,9 @@
 <h3 align="center">welcome to my GitHub profile :3</h3>
 
 <pre>
-    💼 CS student @ college • JS enjoyer • Python & C
+    💼 CS student @ university • JS enjoyer
     🧠 Systems thinking • Open-source geek
-    📖 UI/UX & DX • IoT • Microcontrollers
-    🎧 Music • Code • Old tech
+    📖 UI/UX & DX • IoT
 </pre>
 
 <p align="center">
