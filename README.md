@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/6b1d697f-4731-4123-9946-969c76fb3106" width="350" alt="Banner">
-</p>
-
-<h2 align="center">LOADING_SYSTEM_RESOURCES...</h2>
-
 ```text
 [ IDENTIFICATION ]
 > Alias: Tyomich
