@@ -1,8 +1,8 @@
 {
- "key": "7f9026b",
+ "key": "eb0c9e54",
  "stars": 4,
- "contributions": 164,
- "repos": 13,
+ "contributions": 165,
+ "repos": 14,
  "followers": 1,
  "languages": [
   [
@@ -18,6 +18,10 @@
    178908
   ],
   [
+   "Python",
+   114896
+  ],
+  [
    "C",
    87107
   ],
@@ -26,12 +30,8 @@
    39280
   ],
   [
-   "TypeScript",
-   31732
-  ],
-  [
-   "Python",
-   27265
+   "C++",
+   32609
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 10,
     "day": 6,
     "today": true
    },
@@ -160,6 +160,15 @@
     "home-automation",
     "mqtt-client"
    ]
+  },
+  {
+   "name": "PicoRL78",
+   "url": "https://github.com/tyom1ch/PicoRL78",
+   "text": "Fault injection Renesas RL78 tool",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
   }
  ],
  "all": [
@@ -192,6 +201,15 @@
    "fork": false,
    "stars": 0,
    "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "PicoRL78",
+   "url": "https://github.com/tyom1ch/PicoRL78",
+   "text": "Fault injection Renesas RL78 tool",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
    "topics": []
   },
   {
