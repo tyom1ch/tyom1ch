@@ -1,13 +1,13 @@
 {
- "key": "eb0c9e54",
- "stars": 4,
- "contributions": 165,
+ "key": "6d8aebe8",
+ "stars": 5,
+ "contributions": 172,
  "repos": 14,
  "followers": 1,
  "languages": [
   [
    "JavaScript",
-   383303
+   443861
   ],
   [
    "Jupyter Notebook",
@@ -19,7 +19,7 @@
   ],
   [
    "Python",
-   114896
+   115950
   ],
   [
    "C",
@@ -27,11 +27,11 @@
   ],
   [
    "Java",
-   39280
+   45529
   ],
   [
    "C++",
-   32609
+   33358
   ]
  ],
  "days": [
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 10,
+    "c": 17,
     "day": 6,
     "today": true
    },
@@ -166,7 +166,7 @@
    "url": "https://github.com/tyom1ch/PicoRL78",
    "text": "Fault injection Renesas RL78 tool",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "Python",
    "topics": []
   }
@@ -186,6 +186,15 @@
    ]
   },
   {
+   "name": "PicoRL78",
+   "url": "https://github.com/tyom1ch/PicoRL78",
+   "text": "Fault injection Renesas RL78 tool",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
    "name": "chat95",
    "url": "https://github.com/tyom1ch/chat95",
    "text": "simple retro looking chat",
@@ -201,15 +210,6 @@
    "fork": false,
    "stars": 0,
    "language": "C#",
-   "topics": []
-  },
-  {
-   "name": "PicoRL78",
-   "url": "https://github.com/tyom1ch/PicoRL78",
-   "text": "Fault injection Renesas RL78 tool",
-   "fork": false,
-   "stars": 0,
-   "language": "Python",
    "topics": []
   },
   {
