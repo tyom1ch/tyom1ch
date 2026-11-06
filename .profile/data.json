@@ -1,0 +1,288 @@
+{
+ "key": "7f9026b",
+ "stars": 4,
+ "contributions": 164,
+ "repos": 13,
+ "followers": 1,
+ "languages": [
+  [
+   "JavaScript",
+   383303
+  ],
+  [
+   "Jupyter Notebook",
+   277405
+  ],
+  [
+   "HTML",
+   178908
+  ],
+  [
+   "C",
+   87107
+  ],
+  [
+   "Java",
+   39280
+  ],
+  [
+   "TypeScript",
+   31732
+  ],
+  [
+   "Python",
+   27265
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 2,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 22,
+    "today": false
+   },
+   {
+    "c": 7,
+    "day": 23,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 24,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 3,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 6,
+    "today": true
+   },
+   null
+  ]
+ ],
+ "streak": {
+  "current": 2,
+  "longest": 5
+ },
+ "pins": [
+  {
+   "name": "edwic-dash-alpha",
+   "url": "https://github.com/tyom1ch/edwic-dash-alpha",
+   "text": "just a mqtt edge dashboard client",
+   "fork": false,
+   "stars": 3,
+   "language": "JavaScript",
+   "topics": [
+    "dashboard",
+    "home-automation",
+    "mqtt-client"
+   ]
+  }
+ ],
+ "all": [
+  {
+   "name": "edwic-dash-alpha",
+   "url": "https://github.com/tyom1ch/edwic-dash-alpha",
+   "text": "just a mqtt edge dashboard client",
+   "fork": false,
+   "stars": 3,
+   "language": "JavaScript",
+   "topics": [
+    "dashboard",
+    "home-automation",
+    "mqtt-client"
+   ]
+  },
+  {
+   "name": "chat95",
+   "url": "https://github.com/tyom1ch/chat95",
+   "text": "simple retro looking chat",
+   "fork": false,
+   "stars": 1,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Lab1_V4",
+   "url": "https://github.com/tyom1ch/Lab1_V4",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "wled-matrix-mapper",
+   "url": "https://github.com/tyom1ch/wled-matrix-mapper",
+   "text": "Browser-based WLED LED matrix mapper using camera calibration.",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "CAN_WD_v1",
+   "url": "https://github.com/tyom1ch/CAN_WD_v1",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "HTML",
+   "topics": []
+  },
+  {
+   "name": "wpa2-colab",
+   "url": "https://github.com/tyom1ch/wpa2-colab",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "darksynth",
+   "url": "https://github.com/tyom1ch/darksynth",
+   "text": "img to midi transmutat0r",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "dots-hyprland-wiki",
+   "url": "https://github.com/tyom1ch/dots-hyprland-wiki",
+   "text": "Documentation for end-4/dots-hyprland",
+   "fork": true,
+   "stars": 0,
+   "language": "MDX",
+   "topics": []
+  },
+  {
+   "name": "tyom1ch",
+   "url": "https://github.com/tyom1ch/tyom1ch",
+   "text": "Mee",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "upscaler-colab",
+   "url": "https://github.com/tyom1ch/upscaler-colab",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": []
+  },
+  {
+   "name": "neko-the-bot",
+   "url": "https://github.com/tyom1ch/neko-the-bot",
+   "text": "simple silly telegram bot",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "evil-esp32",
+   "url": "https://github.com/tyom1ch/evil-esp32",
+   "text": "ESP32 With some \"features\" >:)",
+   "fork": false,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "pypass",
+   "url": "https://github.com/tyom1ch/pypass",
+   "text": "simple python random password generator with variable lenght of pasword",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
