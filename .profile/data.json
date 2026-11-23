@@ -1,5 +1,5 @@
 {
- "key": "bdb55243",
+ "key": "77905044",
  "stars": 5,
  "contributions": 200,
  "repos": 15,
@@ -113,9 +113,13 @@
    {
     "c": 0,
     "day": 22,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 23,
     "today": true
    },
-   null,
    null,
    null,
    null,
